@@ -1,0 +1,104 @@
+Vijay Manohar Dogiparthi
+Embedded Software Engineer
+	Eindhoven, Netherlands	 
++31-6-45842361	 
+dvijaymanohar@gmail.com
+ 
+linkedin.com/in/dvijaymanohar
+ 
+
+SUMMARY
+
+A seasoned and quality-driven professional with a strong background in embedded software architecture and design, automation, software performance analysis and benchmarking.
+
+CORE COMPETENCIES
+
+•	Test driven Embedded software development including software applications, Device drivers and firmware.
+•	Solid experience in development of parallel stress test frameworks, performance analysis, benchmarking and debugging.
+•	Deeper understanding of Computer architecture and Network protocols.
+•	Mentoring and lead cross-functional teams.
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer                                                                                                                                Nov 2018 – Present
+Rambus Security,   Vught, Netherlands 
+
+•	Senior Individual contributor, responsible for the design and development of robust algorithms for applications and device drivers for cryptographic embedded IPs which are part of the security protocol engines.
+
+•	Designed and developed a power-optimized system software stack for Cryptographic embedded IPs.
+
+Senior Lead Engineer                                                                                                                      Apr 2015 – Jul 2018
+Qualcomm India Pvt. Limited,   Bengaluru, India 
+
+•	Designed and developed Multicore, low power and random stress framework for ARM v8 based CPU subsystem. This software stack stresses all the CPU sub-system hardware interfaces to expose the functional, low power and coherency bugs in pre-silicon and post-silicon phases.
+
+•	Automated the execution of performance analysis on newer CPU designs. This helps to ease the porting of Linux Kernel to newer SoC designs and reduces the overall effort to analyze various benchmarks.
+
+•	Analyzed and benchmarked the CPU Sub-system using industry-standard benchmarks and use cases to identify performance bottlenecks and explore techniques to optimize them. Benchmarking and analysis are carried out on the emulation platform (pre-silicon) and post-silicon platforms by porting the Linux operating system.
+
+Software Development Engineer                                                                                                              Dec 2009 – Apr 2015
+Intel Mobile Communications India Pvt. Limited,   Bengaluru, India 
+
+•	Designed and developed device driver and power optimized software stack for system on-chip FM Radio transceiver device for Windows OS, Android and Threadx RTOS on various Intel mobile phone chipsets.
+
+•	Developed software quality plans, test design specifications and test cases for FM Radio framework aligning to test driven development methodology, unit testing and code coverage.
+
+•	Collaborated with customers and internal functional teams to achieve the Audio and FM Radio device power management targets and devised solution for issues on system performance and power optimization at chip and platform-level.
+
+Staff Software Engineer                                                                                                                           Apr 2007 – Nov 2009
+TES Electronics Solutions India Pvt. Limited,   Bengaluru, India
+
+•	Developed and maintained Power Management and control driver software for Threadx RTOS.
+
+•	Refactored the power management framework to address the concerns of portability, maintainability, and configurability by introducing concepts such as modularization, code, and data separation. 
+
+This helped in easier maintenance, configuration and faster integration of the power management framework and control drivers on new platforms and brought down the production issues by at least 40%. Earned recognition as an exceptional contributor and received a special bonus for this contribution.
+
+Project Intern                                                                                                                                               Nov 2006 – Apr 2007
+Indian Space Research Organization, [ISAC – ISRO],   Bengaluru, India 
+
+•	Designed and implemented a loadable Linux device driver module on x86 based platform for a telemetry data acquisition card based on PCI evaluation board model MXSVFA-PCIDAQ-003 with data acquisition core. OS Driver supports the acquisition of data on digital and analog channels achieving a maximum data transfer rate of 10K samples/sec.
+
+•	Implemented a command line based multi-threaded application for hardware configuration and data acquisition from the hardware. An application writes the acquired data to a programmed buffer for real-time analysis using a proprietary tool.
+
+VOLUNTEER EXPERIENCE
+
+Technical Trainer                                                                                                                                         Nov 2017 – Dec 2017
+TechieAid,   Bengaluru, India
+
+•	Delivering the technical sessions on System software stack development for building power efficient devices. This covers various aspects of System Software Development for embedded devices.
+
+JOURNAL PUBLICATION
+
+Vijay Manohar. D, Dr. K. Venugopala Reddy and Dr. B. Sudeesh
+Design and Implementation of Device Driver for a PCI Bus based Data Acquisition Device
+Instrument Society of India [ISOI] Journal. [Refer ID: NSI – 32 P1 2007]
+
+REWARDS & RECOGNITIONS
+
+•	Awarded Qualcomm's Qualstar Award for enabling Linux for Validation for Qualcomm mobile chipsets. This helps the organization to achieve higher CPU subsystem logic coverage for exposing design defects.
+•	Awarded Qualcomm's Qualstar Award for designing the Linux kernel-based methodology for CPU subsystem benchmarking and performance tuning.
+•	Awarded Intel's Spot Recognition award for refactoring FM Radio stack.
+•	Awarded TES Electronics exceptional contributor award for refactoring power management framework.
+
+
+
+
+TECHNICAL SKILLS
+
+Programming Languages	: ARM Assembly, C, C++, Python
+Unit test frameworks	: Google Test
+Operating Systems	: Linux, Threadx (RTOS)
+Version Control System	: Git, Mercurial
+Processor architectures 	: ARM v8
+Debugging tools	: Lauterbach\Trace-32, GDB
+Development methodologies	: Agile, TDD
+
+EDUCATION
+
+Master of Science, Instrumentation Engineering                                                                                                                    2003-2007
+National Institute of Technology [NIT – 	W],   Warangal, India
+
+Bachelor of Science, Computer Science                                                                                                                                                 2001-2004
+Osmania University,   Hyderabad, India
+

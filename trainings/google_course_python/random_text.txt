@@ -1,0 +1,11 @@
+
+Machine
+User
+Date
+Type
+ 
+A dictionary of sets, which we'll use to keep track of who's logged in where.
+- Process the events to generate a report.
+- A function that generates the dictionary
+- A function to print the dictionary
+
